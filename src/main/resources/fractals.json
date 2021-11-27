@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Aetherblade"
+    },
+    "scales": [14, 46, 65, 71, 96]
+  },
+  {
+    "id": 2,
+    "names": {
+      "de": "Unterwasserruinen",
+      "en": "Aquatic Ruins"
+    },
+    "scales": [7, 26, 61, 76]
+  },
+  {
+    "id": 3,
+    "names": {
+      "de": "Kapitän Mai Trin Boss",
+      "en": "Captain Mai Trin Boss"
+    },
+    "scales": [18, 42, 72, 95]
+  },
+  {
+    "id": 4,
+    "names": {
+      "de": "Chaos",
+      "en": "Chaos"
+    }
+  },
+  {
+    "id": 5,
+    "names": {
+      "de": "Felswand",
+      "en": "Cliffside"
+    },
+    "scales": [6, 21, 47, 69, 94]
+  },
+  {
+    "id": 6,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Deepstone"
+    }
+  },
+  {
+    "id": 7,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Molten Boss"
+    }
+  },
+  {
+    "id": 8,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Molten Furnace"
+    }
+  },
+  {
+    "id": 9,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Nightmare"
+    }
+  },
+  {
+    "id": 10,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Shattered Observatory"
+    }
+  },
+  {
+    "id": 11,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Siren's Reef"
+    }
+  },
+  {
+    "id": 12,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Snowblind"
+    }
+  },
+  {
+    "id": 13,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Sunqua Peak"
+    }
+  },
+  {
+    "id": 14,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Solid Ocean"
+    }
+  },
+  {
+    "id": 15,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Swampland"
+    }
+  },
+  {
+    "id": 16,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Thaumanove Reactor"
+    }
+  },
+  {
+    "id": 17,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Twilight Oasis"
+    }
+  },
+  {
+    "id": 18,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Uncategorized"
+    }
+  },
+  {
+    "id": 19,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Underground Facility"
+    }
+  },
+  {
+    "id": 20,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Urban Battleground"
+    }
+  },
+  {
+    "id": 21,
+    "names": {
+      "de": "Ätherklingen-Zuflucht",
+      "en": "Volcanic"
+    }
+  }
+
+]
